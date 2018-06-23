@@ -11,7 +11,7 @@ The aim of this repository is to develop a Machine Learning model to predict the
 The technologies used to develop this model are:<br>
 * Python: Programming language used for Preprocessing, Data Analysis and Modeling.
   * Jupyter Notebook: Used for Preprocessing.
-  * Spyder: Used in the ESIOS module.
+  * Spyder IDE: Used in the ESIOS module.
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation phase.
 
 ## Data acquisition
