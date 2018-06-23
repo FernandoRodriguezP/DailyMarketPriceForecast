@@ -10,7 +10,8 @@ The aim of this repository is to develop a Machine Learning model to predict the
 ## Technologies
 The technologies used to develop this model are:<br>
 * Python:
-* Tableau
+⋅* Anaconda
+* Tableau:
 
 
 ## Data acquisition
