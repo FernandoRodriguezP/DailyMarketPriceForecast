@@ -1,9 +1,4 @@
 # Daily Market Price Forecast
-Este Trabajo Fin de Máster se trata de un modelo de **Predicción del Precio de Mercado Diario**.<br>
-Para llevarlo a cabo, primeramente será necesario extraer información de diversas fuentes, a saber:
-* ESIOS (Sistema de información de Red Eléctrica de España)
-* AEMET
-* RTE (Red de Transporte de Electricidad de Francia)
-* ...
-
-![Work in progress](http://www.shopotticatre.it/pimages/Work-in-progress-big-529-932.png "WorkInProgress")
+## Summary
+This Master’s degree final project is a study about the forecast of the Electricity Market Price.<br>
+Electricity prices in Europe are set on a daily basis (every day of the year) at 12 noon, for the twenty-four hours of the following day, in what is refered to as the Daily Market. The price and volume of energy over a specific hour are determined by the point at which the supply and demand curves meet, according to the marginal pricing model adopted by the EU.
