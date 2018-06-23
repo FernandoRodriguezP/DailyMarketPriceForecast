@@ -22,7 +22,7 @@ The most important factors that affect the Market Price are:
 * *Date and time*: The Market Price will be increased in summer and winter, in addition peak values usually take place in the early morning and late afternoon.
 
 There are two different data sources.<br>
-The module named `/Bank_Holidays` contains a `.csv` file with all the bank holidays in Spain from 01/01/2014 to 01/01/2017.<br>
 The module named `/ESIOS` contains the necessary `.py` files to acquire the data from Red Eléctrica de España (REE).
+The module named `/Bank_Holidays` contains a `.csv` file with all the bank holidays in Spain from 01/01/2014 to 01/01/2017.<br>
 
 ## Data Preprocessing
