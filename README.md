@@ -15,3 +15,4 @@ The technologies used to develop this model are:<br>
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation phase.
 
 ## Data acquisition
+There are two different data sources. In one hand, the module `/Bank_Holidays` .csv file that contains all the bank holidays from 01/01/2014 to 01/01/2017
