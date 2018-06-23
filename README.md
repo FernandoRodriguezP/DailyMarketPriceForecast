@@ -16,7 +16,7 @@ The technologies used to develop this model are:<br>
 
 ## Data acquisition
 The most important factors that affect the Market Price are:
-* *Electricity demand*: The total energy consumption for all purposes.
+* *Electricity demand*: The total energy consumption for all purposes. The larger the electricity demand, the higher the Market Price will be.
 * *Renewable energy generation*: Renewable energy have priority in the power grid and therefore always come first in the merit order. The larger of renewable energy generation, the lower the Market Price will be.
 * *Date and time*:
 
