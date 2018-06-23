@@ -10,7 +10,7 @@ The aim of this repository is to develop a Machine Learning model to predict the
 ## Technologies
 The technologies used to develop this model are:<br>
 * Python: Programming language used for Preprocessing, Data Analysis and Modeling.
-** Anaconda
+  * Anaconda
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation phase.
 
 
