@@ -12,6 +12,7 @@ The technologies used to develop this model are:<br>
 * Python: Programming language used for Preprocessing, Data Analysis and Modeling.
   * Jupyter Notebook: Used for Preprocessing.
   * Spyder IDE: Used in the ESIOS module.
+   * Libraries
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation phase.
 
 ## Data acquisition
