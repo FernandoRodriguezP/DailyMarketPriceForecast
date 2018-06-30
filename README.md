@@ -11,7 +11,9 @@ When the Daily Market Price is set, some of the factors that most affect are:
 
 
 ### 1.1 Objective
-The aim of this repository is to develop a Machine Learning model to predict the Daily Market Price for 48 hours Forecast Horizon.
+The objective of this repository is to develop a Machine Learning model that allows to predict the Daily Market Price for 48 hours Forecast Horizon.<br>
+
+
 
 ## Technologies
 The technologies used to develop this model are:<br>
