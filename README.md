@@ -28,6 +28,9 @@ The file *"Bank_Holidays.csv"* can be found in *"/DailyMarketPriceForecast/Bank_
 | *Title* | *Name of the bank holiday* |
 | *Bank Holiday* | *True (1) or False (0)* |
 
+The complete dataset is made up of 4 variables and 55 samples, one for each bank holiday that took place during that period.
+
+### 2.2 ESIOS
 
 ## Technologies
 The technologies used to develop this model are:<br>
