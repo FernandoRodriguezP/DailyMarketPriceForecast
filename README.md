@@ -23,7 +23,7 @@ The file *"Bank_Holidays.csv"* can be found in *"/DailyMarketPriceForecast/Bank_
 
 | Variable | Description |
 | --- | --- |
-| Date | Date in format dd/mm/yyyy |
+| *Date | Date in format dd/mm/yyyy |
 | Day | Weekday (Monday to Sunday) |
 | Title | Name of the bank holiday |
 | Bank Holiday | True (1) or False (0) |
