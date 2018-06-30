@@ -63,7 +63,7 @@ The complete dataset is made up of 2 variables and 35065 samples.
 It is necessary to make some transformations in the datasets in order to implement the desired Machine Learning model.<br>
 As the dataset related to bank holidays has daily frequency, the information must be converted to hourly frequency in order to make a merge with the rest of the datasets. In addition, four series related to the dates (*"Hora"*, *"Dia"*, *"Mes"*, and *"Dia semana"*) will be created to analyze the contribution of these variables to the model.<br>
 On the other hand, the ESIOS information comes from different files, so it must be combined in a single DataFrame whose variables will be the date in hourly format and also each of the indicators used in ESIOS.<br>
-Once the preprocessing of the data is finished, it must be analyzed if there are outliers in the dataset. It is observed that there are only outliers in two series of the complete DataFrame (0.97% and 4.45% with respect to the total number of samples in the series, respectively).<br>
+Once the preprocessing of the data is finished, it must be analyzed if there are outliers in the dataset. It is observed that there are only outliers in two series of the complete DataFrame (0.97% and 4.45% with respect to the total number of samples in each serie, respectively).<br>
 
 
 ## Technologies
