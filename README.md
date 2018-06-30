@@ -31,6 +31,7 @@ The file *"Bank_Holidays.csv"* can be found in *"/DailyMarketPriceForecast/Bank_
 The complete dataset is made up of 4 variables and 55 samples, one for each bank holiday that took place during that period.
 
 ### 2.2. ESIOS
+On the other hand, to access the information of REE, it is done through an API REST service to ESIOS (System Operator Information System). By using this service, you can download all the information in the system. The official documentation of the ESIOS API REST is available [here](https://api.esios.ree.es/).
 
 ## Technologies
 The technologies used to develop this model are:<br>
