@@ -64,6 +64,8 @@ It is necessary to make some transformations in the datasets in order to impleme
 As the dataset related to bank holidays has daily frequency, the information must be converted to hourly frequency in order to make a merge with the rest of the datasets. In addition, four series related to the dates (*"Hora"*, *"Dia"*, *"Mes"*, and *"Dia semana"*) will be created to analyze the contribution of these variables to the model.<br>
 On the other hand, the ESIOS information comes from different files, so it must be combined in a single DataFrame whose variables will be the date in hourly format and also each of the indicators used in ESIOS.<br>
 Once the preprocessing of the data is finished, it must be analyzed if there are outliers in the dataset. It is observed that there are only outliers in two series of the complete DataFrame (0.97% and 4.45% with respect to the total number of samples in each serie, respectively).<br>
+A Machine Learning model based on the Random Forest algorithm will be developed, it should not be forgotten that this model is very robust in the presence of outliers because the model isolates them in small regions of the feature space. Then, since the prediction for each leaf is the average (in the case of regression), being isolated in separate leaves, outliers won't influence the rest of the predictions (in the case of regression for instance, they would not impact the mean of the other leaves).<br>
+Despite the presence of a small number of outliers, it is decided not to act on them because it is considered that these samples have a normal behavior within the dataset.
 
 
 ## Technologies
