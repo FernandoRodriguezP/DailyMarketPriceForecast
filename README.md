@@ -49,6 +49,9 @@ As seen in the previous section, the parameters that have most influence in the 
 | *Generación prevista Solar* | *Id: 542* |
 | *Precio medio horario componente mercado diario* | *Id: 805* |
 
+In this way, information can be downloaded through the REST API service. Since the Electric Market Price is a value that is updated hourly, to develop the model it’s necessary that the rest of the parameters maintain the same scale, so the script is configured to perform the data download of the indicators previously mentioned with hourly frequency.<br>
+To obtain the information from ESIOS, it is necessary to execute the Jupyter Notebook file *"Get_Indicators.ipynb"*, which is available in *"/DailyMarketPriceForecast/ESIOS/”*. Once the file is executed, four different *“.csv”* files will be generated (one for each indicator) in the path *"/DailyMarketPriceForecast/ESIOS/Data/"*. The files obtained have a similar structure, formed by two fields:
+
 
 ## Technologies
 The technologies used to develop this model are:<br>
