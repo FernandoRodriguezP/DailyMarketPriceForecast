@@ -21,10 +21,12 @@ To develop this model, two sources were mainly used.
 On the one hand, is necessary information about the holidays that takes place in Spain, for this is used a file called *“Bank_Holidays.csv”* that contains the information of the existing holidays in the last 4 years (since January 1, 2014 from December 31, 2017).<br>
 The file *"Bank_Holidays.csv"* can be found in *"/DailyMarketPriceForecast/Bank_Holidays/Data/"* and consists of the following variables:<br>
 
-| Command | Description |
+| Variable | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Date | Date in format dd/mm/yyyy |
+| Day | Weekday (Monday to Sunday) |
+| Title | Name of the bank holiday |
+| Bank Holiday | True (1) or False (0) |
 
 
 ## Technologies
