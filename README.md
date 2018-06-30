@@ -92,6 +92,6 @@ The technologies used to develop this model are:<br>
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation phase.
 
 ## About the autor
-**Fernando Rodríguez Paler
+**Fernando Rodríguez Paler**
 * https://www.linkedin.com/in/fernandorodriguezpaler
 
