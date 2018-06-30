@@ -33,6 +33,22 @@ The complete dataset is made up of 4 variables and 55 samples, one for each bank
 ### 2.2. ESIOS
 On the other hand, to access the information of REE, it is done through an API REST service to ESIOS (System Operator Information System). By using this service, you can download all the information in the system. The official documentation of the ESIOS API REST is available [here](https://api.esios.ree.es/).<br>
 To access the system, it is necessary to request a token by email. Information about how to order the token is available [here](https://www.esios.ree.es/es/pagina/api).<br>
+The indicators available in ESIOS can be found in the Excel file called "indicators.xlsx". This file consists of two fields:<br>
+
+| Variable | Description |
+| --- | --- |
+| *Name* | *Name of the indicator as it appears on the ESIOS website* |
+| *Indicator* | *Number associated with the name of the indicator used to download the indicator information* |
+
+As seen in the previous section, the parameters that have most influence in the Daily Market Price are:<br>
+
+| Indicator name | Indicator number |
+| --- | --- |
+| *Previsión diaria de la demanda eléctrica peninsular* | *Id: 460* |
+| *Previsión de la producción eólica nacional peninsular* | *Id: 541* |
+| *Generación prevista Solar* | *Id: 542* |
+| *Precio medio horario componente mercado diario* | *Id: 805* |
+
 
 ## Technologies
 The technologies used to develop this model are:<br>
