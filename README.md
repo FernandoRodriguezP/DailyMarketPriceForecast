@@ -67,6 +67,8 @@ Once the preprocessing of the data is finished, it must be analyzed if there are
 A Machine Learning model based on the Random Forest algorithm will be developed, it should not be forgotten that this model is very robust in the presence of outliers because the model isolates them in small regions of the feature space. Then, since the prediction for each leaf is the average (in the case of regression), being isolated in separate leaves, outliers won't influence the rest of the predictions (in the case of regression for instance, they would not impact the mean of the other leaves).<br>
 Despite the presence of a small number of outliers, it is decided not to act on them because it is considered that these samples have a normal behavior within the dataset.
 
+## 4. Modelling
+
 
 ## Technologies
 The technologies used to develop this model are:<br>
