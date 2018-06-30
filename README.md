@@ -82,8 +82,9 @@ Despite the presence of a small number of outliers, it is decided not to act on 
 
 ## 4. Modelling
 
+## Run
 
-## Technologies
+## About the technology
 The technologies used to develop this model are:<br>
 * Python: Programming language used for Preprocessing, Data Analysis and Modeling.
   * Jupyter Notebook: Used for Preprocessing.
