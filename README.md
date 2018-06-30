@@ -13,11 +13,8 @@ When the Daily Market Price is set, some of the factors that most affect are:
 The objective of this repository is to develop a Machine Learning model that allows to predict the Daily Market Price for 48 hours Forecast Horizon.<br>
 
 For this, it will be necessary to obtain the information considered relevant for the development of the model.<br>
-
 Once this information is available, it will be necessary to pre-process it, with the objective of adapting it to the requirements of the model.<br>
-
 Next, a Machine Learning model based on the Random Forest Regressor algorithm will be developed.<br>
-
 Finally, the project will have a visualization chapter developed with Tableu with which the results of the developed model can be seen graphically. 
 
 ## 2. Data acquisition
