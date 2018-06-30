@@ -14,6 +14,19 @@ Once this information is available, it will be necessary to pre-process it, with
 Next, a Machine Learning model based on the Random Forest Regressor algorithm will be developed.<br>
 Finally, the project will have a visualization chapter developed with Tableu with which the results of the developed model can be seen graphically. 
 
+## Data acquisition
+To develop this model, two sources were mainly used.
+
+### 2.1 Bank holidays
+On the one hand, is necessary information about the holidays that takes place in Spain, for this is used a file called *“Bank_Holidays.csv”* that contains the information of the existing holidays in the last 4 years (since January 1, 2014 from December 31, 2017).<br>
+The file *"Bank_Holidays.csv"* can be found in *"/DailyMarketPriceForecast/Bank_Holidays/Data/"* and consists of the following variables:
+Variable | Description
+-------- | -----------
+Date | Date in format dd/mm/yyyy
+Day | Weekday (Monday to Sunday)
+Title | Name of the bank holiday
+Bank Holiday | True (1) or False (0)
+
 ## Technologies
 The technologies used to develop this model are:<br>
 * Python: Programming language used for Preprocessing, Data Analysis and Modeling.
