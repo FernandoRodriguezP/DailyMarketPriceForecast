@@ -104,7 +104,7 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 
 ## How to Run
 **1. Processing Bank Holidays data**<br>
-> Execute Bank_Holidays.ipynb (available in path: *"/DailyMarketPriceForecast/Bank_Holidays/"*)
+> Execute Bank_Holidays.ipynb<br>
 `$ jupyter notebook "./Bank_Holidays/Bank_Holidays.ipynb"`
 
 **2. Getting ESIOS data**
