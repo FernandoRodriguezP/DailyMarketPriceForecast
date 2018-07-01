@@ -108,10 +108,12 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 `$ jupyter notebook "./Bank_Holidays/Bank_Holidays.ipynb"`
 
 **2. Getting ESIOS data**
-> Execute Get_Indicators.ipynb (available in path: *"/DailyMarketPriceForecast/ESIOS/"*)
+> Execute Get_Indicators.ipynb
+`$ jupyter notebook "./ESIOS/Get_Indicators.ipynb"`
 
 **3. Preproccesing and Modelling**
 > Execute Preprocessing_and_Modelling.ipynb (available in path: *"/DailyMarketPriceForecast/Model/"*)
+`$ jupyter notebook "./Model/Preprocessing_and_Modelling.ipynb"`
 
 **4. Visualization**
 
