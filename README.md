@@ -119,7 +119,7 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 
 **6.4. Visualization**
 
-## 7. About the technology
+## 7. About the technologies and libraries
 The technologies used to develop this project are:<br>
 
 * **Python**: Programming language used for Preprocessing, Data Analysis and Modelling. During the project, two applications have been used to work with Python:
