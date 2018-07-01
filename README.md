@@ -127,7 +127,12 @@ The technologies used to develop this project are:<br>
   * Spyder IDE: Application mainly used in ESIOS module to import the libraries that allow extracting data from ESIOS API REST.
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation module.
 
-The main libraries used in this project are:
+The main libraries used in this project are:<br>
+
+* `numpy`
+* `pandas`
+* `seaborn`
+* `sklearn`
 
 ## 8. About the autor
 **Fernando Rodríguez Paler**
