@@ -123,8 +123,8 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 The technologies used to develop this project are:<br>
 
 * Python: Programming language used for Preprocessing, Data Analysis and Modelling. During the project, two applications have been used to work with Python:
- * Jupyter Notebook: Application used for Preprocessing and Modelling.
- * Spyder IDE: Application mainly used in ESIOS module to import the libraries that allow extracting data from ESIOS API REST.
+  * Jupyter Notebook: Application used for Preprocessing and Modelling.
+  * Spyder IDE: Application mainly used in ESIOS module to import the libraries that allow extracting data from ESIOS API REST.
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation module.
 
 ## 8. About the autor
