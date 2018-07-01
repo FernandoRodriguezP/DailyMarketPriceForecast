@@ -104,8 +104,8 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 
 ## How to Run
 **1. Processing Bank Holidays data
-`
-Execute Bank_Holidays.ipynb (*"/DailyMarketPriceForecast/Bank_Holidays/*)
+`<br>
+Execute Bank_Holidays.ipynb (*"/DailyMarketPriceForecast/Bank_Holidays/*)<br>
 `
 **2. Getting ESIOS data
 **3. Preproccesing and Modelling
