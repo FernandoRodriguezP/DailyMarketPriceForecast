@@ -103,10 +103,10 @@ The Randomized Search method has been chosen. With these method, the parameters 
 Once the hyperparameter tuning is done, the model is trained with the best parameters of the Random Forest Regressor, and it is tested with the test dataset (20% of total samples) to obtain the results of the prediction.
 
 ## How to Run
-**1. Processing Bank Holidays data<br>
-> Execute Bank_Holidays.ipynb (*"/DailyMarketPriceForecast/Bank_Holidays/*)<br>
-**2. Getting ESIOS data
-**3. Preproccesing and Modelling
+**1. Processing Bank Holidays data**<br>
+> Execute Bank_Holidays.ipynb (*"/DailyMarketPriceForecast/Bank_Holidays/*)
+**2. Getting ESIOS data**
+**3. Preproccesing and Modelling**
 
 ## About the technology
 The technologies used to develop this model are:<br>
