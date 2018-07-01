@@ -67,7 +67,7 @@ The files obtained have a similar structure, formed by two fields:
 
 The complete dataset is made up of 2 variables and 35065 samples.
 
-## 3. Exploratory data analysis
+## 3. Preprocessing
 It is necessary to make some transformations in the datasets in order to implement the desired Machine Learning model.<br>
 
 As the dataset related to bank holidays has daily frequency, the information must be converted to hourly frequency in order to make a merge with the rest of the datasets. In addition, four series related to the dates (*"Hora"*, *"Dia"*, *"Mes"*, and *"Dia semana"*) will be created to analyze the contribution of these variables to the model.<br>
