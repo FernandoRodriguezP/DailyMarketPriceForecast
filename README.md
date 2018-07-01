@@ -100,6 +100,7 @@ Once the model is decided, before training the model it is necessary to obtain t
 The Randomized Search method has been chosen. With these method, the parameters of the estimator are optimized by cross-validated search over parameter settings. In contrast to GridSearchCV, not all parameter values are tried out, but rather a fixed number of parameter settings is sampled from the specified distributions.
 
 ### 4.2. Model evaluation
+Once the hyperparameter tuning is done, the model is trained with the best parameters of the Random Forest Regressor, and it is tested with the test dataset (20% of total samples) to obtain the results of the prediction.
 
 ## Run
 
