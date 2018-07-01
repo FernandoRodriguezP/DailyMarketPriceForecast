@@ -82,7 +82,9 @@ Despite the presence of a small number of outliers, it is decided not to act on 
 
 ## 4. Modelling
 For the development of the model, a Random Forest Regressor algorithm has been implemented.<br>
+
 The Random Forest algorithm is an ensemble of Decision Trees, trained with the “bagging” method, which means that the process of finding the root node and splitting the feature nodes will run randomly.<br>
+
 The Random Forest algorithm is considered one of the most effective machine learning models for predictive. Some of it most important features are:
 *	It runs efficiently on large data bases.
 *	It can handle tabular data with numerical features, or categorical features with fewer than hundreds of categories. 
