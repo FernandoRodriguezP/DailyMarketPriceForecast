@@ -90,7 +90,8 @@ The Random Forest algorithm is considered one of the most effective machine lear
 *	It can handle tabular data with numerical features, or categorical features with fewer than hundreds of categories. 
 *	It gives estimates of what variables are important.
 *	It generates an internal unbiased estimate of the generalization error as the forest building progresses.
-*	It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing.
+*	It has an effective method for estimating missing data and maintains accuracy when a large proportion of the data are missing.<br>
+
 To train the model, the dataset has been divided into 80% train and 20% test.
 
 ### 4.1. Hyperparameter tuning
