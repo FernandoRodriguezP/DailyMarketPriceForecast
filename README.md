@@ -102,22 +102,24 @@ The Randomized Search method has been chosen. With these method, the parameters 
 ### 4.2. Model evaluation
 Once the hyperparameter tuning is done, the model is trained with the best parameters of the Random Forest Regressor, and it is tested with the test dataset (20% of total samples) to obtain the results of the prediction.
 
-## How to Run
-**1. Processing Bank Holidays data**<br>
+## 5. Visualization
+
+## 6. How to Run
+**6.1. Processing Bank Holidays data**<br>
 > Execute "Bank_Holidays.ipynb"<br>
 `$ jupyter notebook "./Bank_Holidays/Bank_Holidays.ipynb"`
 
-**2. Getting ESIOS data**<br>
+**6.2. Getting ESIOS data**<br>
 > Execute "Get_Indicators.ipynb"<br>
 `$ jupyter notebook "./ESIOS/Get_Indicators.ipynb"`
 
-**3. Preproccesing and Modelling**<br>
+**6.3. Preproccesing and Modelling**<br>
 > Execute "Preprocessing_and_Modelling.ipynb"<br>
 `$ jupyter notebook "./Model/Preprocessing_and_Modelling.ipynb"`
 
-**4. Visualization**
+**6.4. Visualization**
 
-## About the technology
+## 7. About the technology
 The technologies used to develop this model are:<br>
 * Python: Programming language used for Preprocessing, Data Analysis and Modeling.
   * Jupyter Notebook: Used for Preprocessing.
@@ -125,7 +127,7 @@ The technologies used to develop this model are:<br>
   * Libraries ->
 * Tableau: Software that produces interactive data visualization, used in the Data Visualitation phase.
 
-## About the autor
+## 8. About the autor
 **Fernando Rodríguez Paler**
 * https://www.linkedin.com/in/fernandorodriguezpaler
 
