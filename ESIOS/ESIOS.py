@@ -62,7 +62,7 @@ class ESIOS(object):
             -H "Accept: application/json; application/vnd.esios-api-v1+json"
             -H "Content-Type: application/json"
             -H "Host: api.esios.ree.es"
-            -H "Authorization: Token token=\"\""
+            -H "Authorization: Token token=""
             -H "Cookie: "
             """
             all_indicators = dict()
