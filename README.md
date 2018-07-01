@@ -129,10 +129,12 @@ The technologies used to develop this project are:<br>
 
 The main libraries used in this project are:<br>
 
-* `numpy`
-* `pandas`
-* `seaborn`
-* `sklearn`
+* `functools`: The functools module is for higher-order functions. Functions that act on or return other functions.
+* `matplotlib`: Plotting library which produces publication quality figures.
+* `numpy`: NumPy is the fundamental package for scientific computing with Python that provides a multidimensional array object, various derived objects, and an assortment of routines for fast operations on arrays.
+* `pandas`: Pandas is an easy-to-use data structures and data analysis tools for the Python programming language.
+* `seaborn`: Visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+* `sklearn`: Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. It provides efficient tools for data mining and data analysis, and is built on NumPy, SciPy, and matplotlib.
 
 ## 8. About the autor
 **Fernando Rodríguez Paler**
