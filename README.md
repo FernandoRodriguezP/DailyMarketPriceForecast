@@ -118,6 +118,7 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 `$ jupyter notebook "./Model/Preprocessing_and_Modelling.ipynb"`
 
 **6.4. Visualization**
+> Execute "Visualization1.twbx" and "Visualization2.twbx"
 
 ## 7. About the technologies and libraries
 The technologies used to develop this project are:<br>
