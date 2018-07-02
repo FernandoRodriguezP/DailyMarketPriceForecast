@@ -144,7 +144,7 @@ The main libraries used in this project are:<br>
 * `seaborn`: Visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 * `sklearn`: Scikit-learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python. It provides efficient tools for data mining and data analysis, and is built on NumPy, SciPy, and matplotlib.
 
-## 8. About the autor
+## 8. About the author
 **Fernando Rodríguez Paler**
 * https://www.linkedin.com/in/fernandorodriguezpaler
 
