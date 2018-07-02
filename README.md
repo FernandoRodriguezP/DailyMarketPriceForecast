@@ -106,19 +106,19 @@ Once the hyperparameter tuning is done, the model is trained with the best param
 
 ## 6. How to Run
 **6.1. Processing Bank Holidays data**<br>
-> Execute "Bank_Holidays.ipynb"<br>
+> Execute "Bank_Holidays.ipynb".<br>
 `$ jupyter notebook "./Bank_Holidays/Bank_Holidays.ipynb"`
 
 **6.2. Getting ESIOS data**<br>
-> Execute "Get_Indicators.ipynb"<br>
+> Execute "Get_Indicators.ipynb".<br>
 `$ jupyter notebook "./ESIOS/Get_Indicators.ipynb"`
 
 **6.3. Preproccesing and Modelling**<br>
-> Execute "Preprocessing_and_Modelling.ipynb"<br>
+> Execute "Preprocessing_and_Modelling.ipynb".<br>
 `$ jupyter notebook "./Model/Preprocessing_and_Modelling.ipynb"`
 
 **6.4. Visualization**
-> Execute "Visualization1.twbx" and "Visualization2.twbx"
+> Execute "Visualization1.twbx" and "Visualization2.twbx".
 
 ## 7. About the technologies and libraries
 The technologies used to develop this project are:<br>
