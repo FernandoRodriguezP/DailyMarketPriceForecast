@@ -107,9 +107,9 @@ A visualization module has been developed with Tableau software, through which n
 
 In order to develop Tableau Workbooks, a data source must be imported. In this case, two different Tableau Workbooks have been developed.<br>
 
-For the first one, the input data of the Machine Learning model "DataFrame.csv" have been used to see interactively how the Daily Market Price is affected with the different model variables.<br>
+For the first one, the input data of the Machine Learning model *"DataFrame.csv"* have been used to see interactively how the Daily Market Price is affected with the different model variables.<br>
 
-For the second Tableau Workbook, the results of the Machine Learning model "Prediction_Results.csv" have been used to observe the relationship between the test data and the prediction.
+For the second Tableau Workbook, the results of the Machine Learning model *"Prediction_Results.csv"* have been used to observe the relationship between the test data and the prediction.
 
 ## 6. How to Run
 **6.1. Processing Bank Holidays data**<br>
