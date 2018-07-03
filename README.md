@@ -37,7 +37,7 @@ The complete dataset is made up of 4 variables and 55 samples, one for each bank
 ### 2.2. ESIOS
 On the other hand, to access the information of REE, it is done through an API REST service to ESIOS (System Operator Information System). By using this service, you can download all the information in the system. The official documentation of the ESIOS API REST is available [here](https://api.esios.ree.es/).<br>
 
-To access the system, it is necessary to request a token by email. Information about how to order the token is available [here](https://www.esios.ree.es/es/pagina/api).<br>
+To access the system, **it is necessary to request a token by email**. Information about how to order the token is available [here](https://www.esios.ree.es/es/pagina/api).<br>
 
 The indicators available in ESIOS can be found in the Excel file called "indicators.xlsx". This file consists of two fields:<br>
 
