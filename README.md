@@ -117,7 +117,7 @@ For the second Tableau Workbook, the results of the Machine Learning model *"Pre
 `$ jupyter notebook "./Bank_Holidays/Bank_Holidays.ipynb"`
 
 **6.2. Getting ESIOS data**<br>
-> Execute "Get_Indicators.ipynb".<br>
+> Execute "Get_Indicators.ipynb" (previously, It's neccessary to introduce ESIOS token).<br>
 `$ jupyter notebook "./ESIOS/Get_Indicators.ipynb"`
 
 **6.3. Preproccesing and Modelling**<br>
